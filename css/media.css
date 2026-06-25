@@ -1,0 +1,30 @@
+@media (max-width: 850px) {
+    .heading-wrapper h5 {
+        text-align: center;
+    }
+    .heading-wrapper h2 {
+        width: 100%;
+        text-align: center;
+    }
+    .myform {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .mytextarea {
+        width: 80%;
+    }
+    .input-wrapper {
+        max-width: 80%;
+        min-width: 80%;
+    }
+    .s2-container {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .round {
+        width: 80px;
+        height: 80px;
+    }
+}
